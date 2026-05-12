@@ -1,0 +1,30 @@
+#header .logo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+
+#header .logo span{
+    color:#2E2F42;
+}
+
+#header { 
+    background-color: #FFFFFF;
+}
+
+#header a {
+    color: #2E2F42;
+}
+
+#header a:hover
+#header a:focus {
+    color: #404BBF;
+}
+
+address a {
+    color: #434455;
+}
